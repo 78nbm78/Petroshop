@@ -19210,6 +19210,15 @@ h4 span.headline-detail {
   }
 }
 
+@media (max-width: 576px) {
+  .category-wrapper .category-item {
+    width: 100%;
+    margin-left: 0;
+    margin-top: 15px;
+    margin-bottom: 0;
+  }
+}
+
 @media (max-width: 480px) {
   .tabs-nav.blog li,
   .tabs-nav.blog li a,
