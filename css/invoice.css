@@ -8,29 +8,15 @@
 /* ------------------------------------------------------------------- */
 /* Invoice Styles
 ---------------------------------------------------------------------- */
-@import url("https://fonts.googleapis.com/css?family=Raleway:400,600");
 @import url("bootstrap-grid.css");
 
-@font-face {
-  font-family: IRANSans;
-  font-style: normal;
-  font-weight: bold;
-  src: url("../font/IRANSansWeb_Light.eot");
-  src: url("../font/IRANSansWeb_Lightd41dd41d.eot?#iefix")
-      format("embedded-opentype"),
-    /* IE6-8 */ url("../font/IRANSansWeb_Light.woff2") format("woff2"),
-    /* FF39+,Chrome36+, Opera24+*/ url("../font/IRANSansWeb_Light.woff")
-      format("woff"),
-    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/ url("../font/IRANSansWeb_Light.ttf")
-      format("truetype");
-}
 body {
   font-weight: normal;
-  font-family: IRANSans;
+  font-family: IRANYekan;
   font-style: normal;
 }
 html {
-  font-family: IRANSans;
+  font-family: IRANYekan;
   text-transform: none;
   font-size: 100%;
 }
@@ -44,7 +30,7 @@ strong {
 body {
   background: #f4f4f4;
   direction: rtl;
-  font-family: IRANSans;
+  font-family: IRANYekan;
   color: #666;
   font-weight: 300;
   line-height: 28px;
@@ -126,7 +112,7 @@ th span::after {
   bottom: -16px;
   position: absolute;
   right: 0;
-  border-bottom: 1px solid #3867d6;
+  border-bottom: 1px solid #ff3f34;
 }
 
 #footer {
@@ -154,7 +140,7 @@ th span::after {
 }
 
 #footer li span {
-  color: #3867d6;
+  color: #ff3f34;
 }
 
 .margin-top-20 {

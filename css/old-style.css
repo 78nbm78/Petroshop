@@ -5,16 +5,16 @@
 @import "https://fonts.googleapis.com/css?family=Raleway:300,400,500,600,700";
 @import "https://fonts.googleapis.com/css?family=Open+Sans:500,600,700";
 @font-face {
-  font-family: IRANSans;
+  font-family: IRANYekan;
   font-style: normal;
   font-weight: bold;
-  src: url("../font/IRANSansWeb_Light.eot");
-  src: url("../font/IRANSansWeb_Lightd41dd41d.eot?#iefix")
+  src: url("../font/IRANYekanWeb_Light.eot");
+  src: url("../font/IRANYekanWeb_Lightd41dd41d.eot?#iefix")
       format("embedded-opentype"),
-    /* IE6-8 */ url("../font/IRANSansWeb_Light.woff2") format("woff2"),
-    /* FF39+,Chrome36+, Opera24+*/ url("../font/IRANSansWeb_Light.woff")
+    /* IE6-8 */ url("../font/IRANYekanWeb_Light.woff2") format("woff2"),
+    /* FF39+,Chrome36+, Opera24+*/ url("../font/IRANYekanWeb_Light.woff")
       format("woff"),
-    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/ url("../font/IRANSansWeb_Light.ttf")
+    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/ url("../font/IRANYekanWeb_Light.ttf")
       format("truetype");
 }
 body {
@@ -1435,7 +1435,7 @@ em.mm-counter + a.mm-fullsubopen + span {
   line-height: 19px;
   font-size: 11px;
   font-weight: 500;
-  font-family: IRANSans;
+  font-family: IRANYekan;
 }
 .mmenu-trigger {
   height: 50px;
@@ -2050,7 +2050,7 @@ body .pac-container {
   border-top: none;
   box-sizing: content-box;
   margin-top: -2px;
-  font-family: IRANSans;
+  font-family: IRANYekan;
 }
 .main-search-input .pac-container {
   left: 0 !important;
@@ -3587,7 +3587,7 @@ button.fs-map-btn.button {
   border-radius: 0 0 4px 4px;
 }
 .coupon-code {
-  font-family: IRANSans;
+  font-family: IRANYekan;
   font-weight: 500;
   color: #fff;
   font-size: 18px;
@@ -3618,7 +3618,7 @@ button.fs-map-btn.button {
   display: none;
 }
 .code-button:hover {
-  background-color: #3867d6;
+  background-color: #ff3f34;
   color: #fff;
 }
 .coupon-link-icon {
@@ -4408,7 +4408,7 @@ a.mfp-gallery {
   margin-bottom: 3px;
 }
 .qtyButtons input {
-  font-family: IRANSans;
+  font-family: IRANYekan;
   outline: 0;
   font-size: 20px;
   text-align: center;
@@ -4459,7 +4459,7 @@ a.mfp-gallery {
   display: inline-block;
   font-size: 11px;
   font-weight: 600;
-  font-family: IRANSans;
+  font-family: IRANYekan;
   line-height: 18px;
   text-align: center;
   position: relative;
@@ -4782,7 +4782,7 @@ h3 .listing-price i {
   height: 22px;
   text-align: center;
   line-height: 21px;
-  font-family: IRANSans;
+  font-family: IRANYekan;
 }
 .rating-overview {
   display: flex;
@@ -6695,7 +6695,7 @@ a.rate-review:hover {
     line-height: 22px;
 }
 .category-wrapper .category-item:hover {
-	background-color: #3867d6;
+	background-color: #ff3f34;
 	color: #fff;
 }
 .category-wrapper .category-item:hover .counter {
@@ -10478,7 +10478,7 @@ section.fullwidth .listing-item-container.list-layout,
   height: 26px;
   width: 44px;
   display: inline-block;
-  font-family: IRANSans;
+  font-family: IRANYekan;
   position: relative;
   border-radius: 50px;
   letter-spacing: 0;
@@ -10517,7 +10517,7 @@ section.fullwidth .listing-item-container.list-layout,
 }
 .infoBox .numerical-rating {
   margin: 0;
-  font-family: IRANSans;
+  font-family: IRANYekan;
 }
 .star-rating {
   display: block;
@@ -11026,7 +11026,7 @@ a.dashboard-responsive-nav-trigger {
 }
 .dashboard-nav ul li span.nav-tag {
   background-color: rgba(255, 255, 255, 0.2);
-  font-family: IRANSans;
+  font-family: IRANYekan;
   font-weight: 600;
   display: inline-block;
   font-size: 11px;
@@ -11156,7 +11156,7 @@ a.dashboard-responsive-nav-trigger {
   padding: 0;
   margin: 0;
   color: #fff;
-  font-family: IRANSans;
+  font-family: IRANYekan;
   letter-spacing: 0;
 }
 .dashboard-stat-content span {
@@ -14832,7 +14832,7 @@ button,
 .map-box div,
 .numerical-rating .rating-counter,
 body .menu-responsive i.menu-trigger:after {
-  font-family: IRANSans;
+  font-family: IRANYekan;
   text-transform: none;
 }
 h1,

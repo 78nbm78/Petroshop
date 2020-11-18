@@ -4,7 +4,7 @@
 .time-slot input ~ label:hover,
 .booking-estimated-cost span,
 .time-slot label:hover span {
-  color: #3867d6;
+  color: #ff3f34;
 }
 .daterangepicker td.in-range,
 .time-slot input ~ label:hover {
@@ -19,7 +19,7 @@
 .daterangepicker td.active,
 .daterangepicker td.active:hover,
 .daterangepicker .drp-buttons button.applyBtn {
-  background-color: #3867d6;
+  background-color: #ff3f34;
 }
 .comment-by-listing a:hover,
 .browse-all-user-listings a i,
@@ -74,7 +74,7 @@ a.button.border,
 .agent .social-icons li a:hover i,
 #footer .social-icons li a:hover i,
 .headline span i {
-  color: #3867d6;
+  color: #ff3f34;
 }
 .qtyTotal,
 .mm-menu em.mm-counter,
@@ -116,7 +116,7 @@ input:checked + .slider,
 #mapnav-buttons a:hover,
 #sign-in-dialog .mfp-close:hover,
 #small-dialog .mfp-close:hover {
-  background-color: #3867d6;
+  background-color: #ff3f34;
 }
 .rangeslider__fill,
 span.blog-item-tag,
@@ -124,67 +124,67 @@ span.blog-item-tag,
 .listing-item-container.list-layout span.tag,
 .tip,
 .mfp-arrow:hover {
-  background: #3867d6;
+  background: #ff3f34;
 }
 .rangeslider__handle {
-  border-color: #3867d6;
+  border-color: #ff3f34;
 }
 .layout-switcher a.active {
-  color: #3867d6;
-  border-color: #3867d6;
+  color: #ff3f34;
+  border-color: #ff3f34;
 }
 #titlebar.listing-titlebar span.listing-tag {
-  border-color: #3867d6;
-  color: #3867d6;
+  border-color: #ff3f34;
+  color: #ff3f34;
 }
 .listing-slider-small .slick-next:hover,
 .listing-slider-small .slick-prev:hover,
 .listing-slider .slick-next:hover,
 .listing-slider .slick-prev:hover {
-  background-color: #3867d6;
+  background-color: #ff3f34;
 }
 .listing-nav-container.cloned .listing-nav li:first-child a.active,
 .listing-nav-container.cloned .listing-nav li:first-child a:hover,
 .listing-nav li:first-child a,
 .listing-nav li a.active,
 .listing-nav li a:hover {
-  border-color: #3867d6;
-  color: #3867d6;
+  border-color: #ff3f34;
+  color: #ff3f34;
 }
 .pricing-list-container h4 {
-  color: #3867d6;
-  border-color: #3867d6;
+  color: #ff3f34;
+  border-color: #ff3f34;
 }
 .sidebar-textbox ul.contact-details li a {
-  color: #3867d6;
+  color: #ff3f34;
 }
 a.button.border {
-  color: #3867d6;
-  border-color: #3867d6;
+  color: #ff3f34;
+  border-color: #ff3f34;
 }
 .trigger.active a,
 .ui-accordion .ui-accordion-header-active:hover,
 .ui-accordion .ui-accordion-header-active {
-  background-color: #3867d6;
-  border-color: #3867d6;
+  background-color: #ff3f34;
+  border-color: #ff3f34;
 }
 .numbered.color ol > li::before {
-  border-color: #3867d6;
-  color: #3867d6;
+  border-color: #ff3f34;
+  color: #ff3f34;
 }
 .numbered.color.filled ol > li::before {
-  border-color: #3867d6;
-  background-color: #3867d6;
+  border-color: #ff3f34;
+  background-color: #ff3f34;
 }
 .info-box {
-  border-top: 2px solid #3867d6;
+  border-top: 2px solid #ff3f34;
   background: linear-gradient(
     to bottom,
     rgba(255, 255, 255, 0.98),
     rgba(255, 255, 255, 0.95)
   );
-  background-color: #3867d6;
-  color: #3867d6;
+  background-color: #ff3f34;
+  color: #ff3f34;
 }
 .info-box.no-border {
   background: linear-gradient(
@@ -192,73 +192,73 @@ a.button.border {
     rgba(255, 255, 255, 0.96),
     rgba(255, 255, 255, 0.93)
   );
-  background-color: #3867d6;
+  background-color: #ff3f34;
 }
 .tabs-nav li a:hover {
-  border-color: #3867d6;
+  border-color: #ff3f34;
 }
 .tabs-nav li a:hover,
 .tabs-nav li.active a {
-  border-color: #3867d6;
-  color: #3867d6;
+  border-color: #ff3f34;
+  color: #ff3f34;
 }
 .style-3 .tabs-nav li a:hover,
 .style-3 .tabs-nav li.active a {
-  border-color: #3867d6;
-  background-color: #3867d6;
+  border-color: #ff3f34;
+  background-color: #ff3f34;
 }
 .checkboxes input[type="checkbox"]:checked + label:before {
-  background-color: #3867d6;
-  border-color: #3867d6;
+  background-color: #ff3f34;
+  border-color: #ff3f34;
 }
 .listing-item-container.compact .listing-item-content span.tag {
-  background-color: #3867d6;
+  background-color: #ff3f34;
 }
 .dashboard-nav ul li.active,
 .dashboard-nav ul li:hover {
-  border-color: #3867d6;
+  border-color: #ff3f34;
 }
 .dashboard-list-box .comment-by-listing a:hover {
-  color: #3867d6;
+  color: #ff3f34;
 }
 .opening-day:hover h5 {
-  color: #3867d6 !important;
+  color: #ff3f34 !important;
 }
 .map-box h4 a:hover {
-  color: #3867d6;
+  color: #ff3f34;
 }
 .infoBox-close:hover {
-  background-color: #3867d6;
-  -webkit-text-stroke: 1px #3867d6;
+  background-color: #ff3f34;
+  -webkit-text-stroke: 1px #ff3f34;
 }
 .cluster-visible {
-  background-color: #3867d6;
+  background-color: #ff3f34;
 }
 .cluster-visible:before {
-  border: 7px solid #3867d6;
-  box-shadow: inset 0 0 0 4px #3867d6;
+  border: 7px solid #ff3f34;
+  box-shadow: inset 0 0 0 4px #ff3f34;
 }
 .marker-arrow {
-  border-color: #3867d6 transparent transparent;
+  border-color: #ff3f34 transparent transparent;
 }
 .face.front {
-  border-color: #3867d6;
-  color: #3867d6;
+  border-color: #ff3f34;
+  color: #ff3f34;
 }
 .face.back {
-  background: #3867d6;
-  border-color: #3867d6;
+  background: #ff3f34;
+  border-color: #ff3f34;
 }
 .custom-zoom-in:hover:before,
 .custom-zoom-out:hover:before {
-  -webkit-text-stroke: 1px #3867d6;
+  -webkit-text-stroke: 1px #ff3f34;
 }
 .category-box-btn:hover {
-  background-color: #3867d6;
-  border-color: #3867d6;
+  background-color: #ff3f34;
+  border-color: #ff3f34;
 }
 .message-bubble.me .message-text {
-  color: #3867d6;
+  color: #ff3f34;
   background-color: rgba(249, 25, 66, 0.05);
 }
 .message-bubble.me .message-text:before {
@@ -282,33 +282,33 @@ body #navigation.style-1 ul li:hover ul li:hover li:hover li:hover a,
 body #navigation.style-1 ul ul li:hover a:after,
 body #navigation.style-1 ul ul li:hover ul li a:hover,
 body .user-menu ul li a:hover {
-  color: #3867d6;
+  color: #ff3f34;
 }
 #navigation.style-1 > ul > li:hover > a,
 #navigation.style-1 > ul > li > a.current {
   background: rgba(56, 103, 214, 0.06);
-  color: #3867d6;
+  color: #ff3f34;
 }
 .category-box:hover .category-box-content span,
 .radio input[type="radio"] + label .radio-label:after,
 .uploadButton .uploadButton-button:hover {
-  background-color: #3867d6;
+  background-color: #ff3f34;
 }
 .headline-with-separator:after,
 .listing-item-container.list-layout span.tag,
 .listing-item-content span.tag {
-  background: #3867d6;
+  background: #ff3f34;
 }
 .radio input[type="radio"]:checked + label .radio-label {
-  background-color: #3867d6;
-  border-color: #3867d6;
+  background-color: #ff3f34;
+  border-color: #ff3f34;
 }
 .uploadButton .uploadButton-button:hover {
   color: #fff;
 }
 .category-small-box i,
 .uploadButton .uploadButton-button:before {
-  color: #3867d6;
+  color: #ff3f34;
 }
 .daterangepicker td.in-range,
 .time-slot input ~ label:hover {
@@ -319,5 +319,5 @@ section.fullwidth .icon-box-2 i {
 }
 .slick-current .testimonial-author h4 span {
   background: rgba(56, 103, 214, 0.06);
-  color: #3867d6;
+  color: #ff3f34;
 }
